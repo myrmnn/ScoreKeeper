@@ -1,0 +1,44 @@
+body{
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: Verdana;
+	color: whitesmoke;
+}
+
+
+.winner{
+	color: magenta;
+}
+
+
+p,
+h1 {
+	font-size: 40px;
+}
+
+#VS {
+	color: lime;
+}
+
+input {
+	width: 60px;
+	padding: 10px;
+	font-size: 20px;
+	margin: 10px;
+	background-color: black;
+	color: magenta;
+	border: 2px solid magenta;
+	border-radius: 5px;
+}
+
+button {
+	color: magenta;
+	background-color: black;
+	padding: 10px;
+	font-size: 20px;
+	margin: 10px;
+	width: 150px;
+	border: 2px solid magenta;
+	border-radius: 5px;
+}
